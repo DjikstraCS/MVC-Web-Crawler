@@ -1,4 +1,4 @@
-DEPRECATED
+⛔️ DEPRECATED
 # MVC-Web-Crawler
 Web crawler buildt with Selenium and firefox, complete with GUI and everything.
 
