@@ -1,6 +1,6 @@
 📁 Archived
 # MVC-Web-Crawler
-Web crawler buildt with Selenium and firefox, complete with GUI and everything.
+Web scraper buildt with Selenium and firefox, complete with GUI and everything.
 
 Can crawl dba.dk for deals.
 
