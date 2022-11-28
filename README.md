@@ -1,5 +1,5 @@
 📁 Archived
-# MVC-Web-Crawler
+# WebScraper
 Web scraper buildt with Selenium and firefox, complete with GUI and everything.
 
 Could scraper dba.dk for deals.
